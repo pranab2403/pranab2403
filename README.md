@@ -1,4 +1,14 @@
- **Hi👋, I am Pranab Naskar. Nice to meet you.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:ff79c6&height=200&section=header&text=Pranab%20Naskar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=BSc%20IT%20(AI)%20%C2%B7%20MAKAUT%20University%20%C2%B7%20Year%2001&descAlignY=58&descColor=8b949e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◉ OPEN TO COLLABORATE-00ff88?style=for-the-badge&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/⚡ AI ENTHUSIAST-79c0ff?style=for-the-badge&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/🎓 FIRST YEAR-ff79c6?style=for-the-badge&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/⚙ LEARNING MODE: ON-f0a030?style=for-the-badge&labelColor=0a0e17" />
+</p>
+
 
 ### 🚀 About Me
 
