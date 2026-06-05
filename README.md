@@ -1,4 +1,151 @@
-## Hi👋, I'm Pranab Naskar, Nice to meet you everyone.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pranab Naskar</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Syne:wght@800&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0e17;
+    font-family: 'Share Tech Mono', monospace;
+    color: #c9d1d9;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 3rem 2rem;
+  }
+
+  .hero {
+    max-width: 900px;
+    width: 100%;
+  }
+
+  /* Glitch Name */
+  .glitch-name {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: clamp(3rem, 9vw, 6rem);
+    line-height: 1;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    letter-spacing: -2px;
+    margin-bottom: 1.2rem;
+
+    /* Green to Pink gradient fill */
+    background: linear-gradient(90deg, #00ff88 0%, #ff79c6 50%, #00ff88 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Glitch layers */
+  .glitch-name::before,
+  .glitch-name::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: linear-gradient(90deg, #00ff88 0%, #ff79c6 50%, #00ff88 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .glitch-name::before {
+    animation: glitch1 3.5s infinite;
+    clip-path: polygon(0 0, 100% 0, 100% 38%, 0 38%);
+    opacity: 0.85;
+  }
+
+  .glitch-name::after {
+    animation: glitch2 3.5s infinite;
+    clip-path: polygon(0 62%, 100% 62%, 100% 100%, 0 100%);
+    opacity: 0.85;
+  }
+
+  @keyframes glitch1 {
+    0%, 88%, 100% { transform: translate(0); }
+    90%  { transform: translate(-4px, 0); }
+    92%  { transform: translate(4px, 0); }
+    94%  { transform: translate(-2px, 0); }
+    96%  { transform: translate(0); }
+  }
+
+  @keyframes glitch2 {
+    0%, 88%, 100% { transform: translate(0); }
+    90%  { transform: translate(4px, 0); }
+    92%  { transform: translate(-4px, 0); }
+    94%  { transform: translate(2px, 0); }
+    96%  { transform: translate(0); }
+  }
+
+  /* Role line */
+  .role-line {
+    font-size: 15px;
+    color: #8b949e;
+    letter-spacing: 1px;
+    margin-bottom: 1.6rem;
+  }
+
+  .role-line .arrow { color: #00ff88; margin-right: 6px; }
+  .role-line .hl    { color: #00ff88; }
+  .role-line .sep   { margin: 0 10px; color: #3a4152; }
+
+  /* Badge row */
+  .badge-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .badge {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1.8px;
+    padding: 7px 16px;
+    border-radius: 5px;
+    border: 1px solid;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+
+  .b-green  { border-color: #00ff88; color: #00ff88; background: rgba(0,255,136,0.07); }
+  .b-blue   { border-color: #79c0ff; color: #79c0ff; background: rgba(121,192,255,0.07); }
+  .b-pink   { border-color: #ff79c6; color: #ff79c6; background: rgba(255,121,198,0.07); }
+  .b-amber  { border-color: #f0a030; color: #f0a030; background: rgba(240,160,48,0.07); }
+</style>
+</head>
+<body>
+
+<div class="hero">
+
+  <div class="glitch-name" data-text="Pranab Naskar">Pranab Naskar</div>
+
+  <div class="role-line">
+    <span class="arrow">→</span>
+    <span class="hl">BSc IT (AI)</span>
+    <span class="sep">·</span>
+    MAKAUT University
+    <span class="sep">·</span>
+    Year 01
+  </div>
+
+  <div class="badge-row">
+    <span class="badge b-green">◉ OPEN TO COLLABORATE</span>
+    <span class="badge b-blue">⚡ AI ENTHUSIAST</span>
+    <span class="badge b-pink">🎓 FIRST YEAR</span>
+    <span class="badge b-amber">⚙ LEARNING MODE: ON</span>
+  </div>
+
+</div>
+
+</body>
+</html>
 
 ### 🚀 About Me
 
