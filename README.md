@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m a **1st-year student at MAKAUT, W.B**, pursuing **BSc. IT in Artificial Intelligence**
+- 🎓 I’m a **2nd-year student at MAKAUT, W.B**, pursuing **BSc. IT in Artificial Intelligence**
 - 🌱 Currently learning **Python** and the **JAVA**
 - 💬 Ask me about **Python, C, C++**
 - 📫 Reach me at: **pranabnaskar2403@gmail.com**
