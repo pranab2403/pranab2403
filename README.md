@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Pranab Naskar — AI enthusiast, Python developer, and UI/UX designer" />
+  <img src="hero.svg" width="100%" alt="Pranab Naskar — AI enthusiast, Python developer, and UI/UX designer" />
 </p>
 
 <p align="center">
