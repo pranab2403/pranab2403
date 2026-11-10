@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" role="img" aria-label="Currently working on: Python and Java, AI, UI/UX design, creative projects">
+<defs><style>@keyframes wfade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1000" height="290" rx="26" fill="#070b16"/><g style="animation:wfade .8s 0.0s both"><rect x="30" y="30" width="460" height="110" rx="18" fill="#0b1126" stroke="#247bff" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="66" cy="85" r="8" fill="#247bff"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="66" cy="85" r="18" fill="none" stroke="#247bff" stroke-opacity=".35"/>
+<text x="102" y="80" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f4f6ff">Learning Python &amp; Java</text>
+<text x="102" y="108" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8f9bc4">Building a strong programming foundation</text>
+<rect x="102" y="120" width="120" height="3" rx="1.5" fill="#247bff" fill-opacity=".25"/><rect x="102" y="120" width="40" height="3" rx="1.5" fill="#247bff"><animate attributeName="x" values="102;182;102" dur="3.2s" repeatCount="indefinite"/></rect></g><g style="animation:wfade .8s 0.2s both"><rect x="510" y="30" width="460" height="110" rx="18" fill="#0b1126" stroke="#8b5cf6" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="546" cy="85" r="8" fill="#8b5cf6"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="546" cy="85" r="18" fill="none" stroke="#8b5cf6" stroke-opacity=".35"/>
+<text x="582" y="80" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f4f6ff">Exploring Artificial Intelligence</text>
+<text x="582" y="108" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8f9bc4">Going deeper into AI as part of my BSc IT (AI)</text>
+<rect x="582" y="120" width="120" height="3" rx="1.5" fill="#8b5cf6" fill-opacity=".25"/><rect x="582" y="120" width="40" height="3" rx="1.5" fill="#8b5cf6"><animate attributeName="x" values="582;662;582" dur="3.2s" repeatCount="indefinite"/></rect></g><g style="animation:wfade .8s 0.4s both"><rect x="30" y="160" width="460" height="110" rx="18" fill="#0b1126" stroke="#ff5fa2" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="66" cy="215" r="8" fill="#ff5fa2"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="66" cy="215" r="18" fill="none" stroke="#ff5fa2" stroke-opacity=".35"/>
+<text x="102" y="210" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f4f6ff">Improving UI/UX design</text>
+<text x="102" y="238" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8f9bc4">Designing cleaner, more intentional interfaces</text>
+<rect x="102" y="250" width="120" height="3" rx="1.5" fill="#ff5fa2" fill-opacity=".25"/><rect x="102" y="250" width="40" height="3" rx="1.5" fill="#ff5fa2"><animate attributeName="x" values="102;182;102" dur="3.2s" repeatCount="indefinite"/></rect></g><g style="animation:wfade .8s 0.6000000000000001s both"><rect x="510" y="160" width="460" height="110" rx="18" fill="#0b1126" stroke="#247bff" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="546" cy="215" r="8" fill="#247bff"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="546" cy="215" r="18" fill="none" stroke="#247bff" stroke-opacity=".35"/>
+<text x="582" y="210" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f4f6ff">Building creative projects</text>
+<text x="582" y="238" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8f9bc4">Turning ideas into small, working experiments</text>
+<rect x="582" y="250" width="120" height="3" rx="1.5" fill="#247bff" fill-opacity=".25"/><rect x="582" y="250" width="40" height="3" rx="1.5" fill="#247bff"><animate attributeName="x" values="582;662;582" dur="3.2s" repeatCount="indefinite"/></rect></g></svg>

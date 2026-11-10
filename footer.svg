@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Code. Learn. Build. Repeat.">
+<defs><linearGradient id="fg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff5fa2"/></linearGradient><clipPath id="fc"><rect width="1000" height="220" rx="26"/></clipPath>
+<style>@keyframes ffade{from{opacity:0}to{opacity:1}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<g clip-path="url(#fc)"><rect width="1000" height="220" fill="#070b16"/>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="12s" repeatCount="indefinite"/><path d="M0 150 C125 136,375 164,500 150 C625 136,875 164,1000 150 C1125 136,1375 164,1500 150 C1625 136,1875 164,2000 150 L2000 220 L0 220 Z" fill="#8b5cf6" fill-opacity="0.35"/></g>
+<g><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="16s" repeatCount="indefinite"/><path d="M0 168 C125 150,375 186,500 168 C625 150,875 186,1000 168 C1125 150,1375 186,1500 168 C1625 150,1875 186,2000 168 L2000 220 L0 220 Z" fill="#247bff" fill-opacity="0.45"/></g>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/><path d="M0 186 C125 176,375 196,500 186 C625 176,875 196,1000 186 C1125 176,1375 196,1500 186 C1625 176,1875 196,2000 186 L2000 220 L0 220 Z" fill="#ff5fa2" fill-opacity="0.4"/></g>
+<text x="500" y="92" text-anchor="middle" font-family="Impact,'Arial Narrow Bold','Helvetica Neue',Arial,sans-serif" font-size="46" letter-spacing="3" fill="url(#fg)" style="animation:ffade 1.4s both">CODE. LEARN. BUILD. REPEAT.</text>
+<text x="500" y="124" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="4" fill="#8f9bc4">PRANAB NASKAR</text></g></svg>
