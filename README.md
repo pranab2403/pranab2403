@@ -93,13 +93,6 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 <img src="https://streak-stats.demolab.com/?user=pranab2403&theme=tokyonight&hide_border=true" alt="Pranab's GitHub streak" />
 
-## ✦ GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranab2403&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Pranab's GitHub trophies" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pranab2403&label=PROFILE+VIEWS&color=247bff&style=for-the-badge&labelColor=070b16" alt="Profile views counter" />
 
 ![Code. Learn. Build. Repeat.](footer.svg?v=1)
 
