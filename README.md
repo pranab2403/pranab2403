@@ -1,31 +1,53 @@
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- =============== HERO BANNER =============== -->
 
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Pranab Naskar - Developer Banner" />
+  <img src="./hero.svg" width="100%" alt="Pranab Naskar"/>
 </p>
-
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <b>AI Enthusiast | Python Developer | UI/UX Explorer</b>
+  <img src="https://img.shields.io/badge/OPEN_TO_COLLABORATE-00E5A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_ENTHUSIAST-247BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MAKAUT-STUDENT-FF354F?style=for-the-badge"/>
 </p>
-
-- 🎓 2nd-year student at <b>MAKAUT, West Bengal</b>
-- 🧠 Pursuing <b>BSc. IT in Artificial Intelligence</b>
-- 🌱 Currently learning <b>Python and Java</b>
-- 💬 Ask me about <b>Python, C, and C++</b>
-- 🎨 Interested in <b>UI/UX Design and Creative Development</b>
-- 📫 Email: <b>pranabnaskar2403@gmail.com</b>
-- ⚡ Fun fact: I design interfaces by day, explore AI by night, and occasionally build Minecraft worlds in between. 🚀
 
 ---
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- =============== ABOUT ME =============== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">⚡ ABOUT ME</h2>
+
+<p align="center">
+  <b>Building ideas into reality through code, creativity & AI.</b>
+</p>
+
+- 🎓 2nd-year student at MAKAUT, West Bengal.
+- 🧠 Pursuing BSc. IT in Artificial Intelligence.
+- 🌱 Currently exploring Python and Java.
+- 💻 Ask me about Python, C and C++.
+- 🎨 Interested in UI/UX, graphic design and creative development.
+- 🤖 Exploring AI/ML and RAG applications.
+- 📫 <a href="mailto:pranabnaskar2403@gmail.com">Contact Me</a>
+
+<p align="center">
+  <i>Design by day, explore AI by night, and build Minecraft worlds in between. 🚀</i>
+</p>
+
+---
+
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="center">🛠️ TECH STACK & INTERESTS</h2>
+
+<p align="center">
+  <img src="./stack.svg" width="100%" alt="My Technology Stack"/>
+</p>
+
+---
+
+<!-- =============== SOCIAL LINKS =============== -->
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
   <a href="https://discord.gg/ashbornx2407">
@@ -50,87 +72,53 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:pranabnaskar2403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- =============== GITHUB STATS =============== -->
 
-<h2 align="center">⚡ Tech Stack & Tools</h2>
-
-<h3 align="center">💻 Programming Languages</h3>
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=pranab2403&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=pranab2403&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<h3 align="center">🎨 Design & Creative Tools</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-</p>
-
-<h3 align="center">🎮 Gaming & Graphics</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AMD-000000?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranab2403&theme=github_dark&hide_border=true&layout=compact"/>
 </p>
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- =============== TROPHIES =============== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=pranab2403&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=pranab2403&theme=github-dark-blue&hide_border=true" />
-</p>
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranab2403&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranab2403&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </p>
 
 ---
 
-<!-- ===================== GITHUB TROPHIES ===================== -->
+<!-- =============== VISITORS =============== -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">👀 PROFILE VISITORS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranab2403&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=pranab2403&label=PROFILE+VIEWS&color=247BFF&style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ===================== VISITOR COUNTER ===================== -->
-
-<h2 align="center">👀 Profile Visitors</h2>
+<!-- =============== FOOTER =============== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranab2403&label=PROFILE+VIEWS&color=247BFF&style=for-the-badge" />
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <b>「 CODE • CREATE • INNOVATE 」</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=120&section=footer"/>
 </p>
