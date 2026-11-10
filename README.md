@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pranab Naskar – AI Enthusiast, Python Developer, UI/UX Designer](./assets/hero.svg?v=1)
+![Pranab Naskar – AI Enthusiast, Python Developer, UI/UX Designer](hero.svg?v=1)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ About Me
 
@@ -18,11 +18,11 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 <div align="center">
 
-![About Pranab – education, community and interests](./assets/profile-banner.svg?v=1)
+![About Pranab – education, community and interests](profile-banner.svg?v=1)
 
 📫 **pranabnaskar2403@gmail.com**
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ Connect With Me
 
@@ -37,7 +37,7 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ashbornx2407)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranabnaskar2403@gmail.com)
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ Tech Stack & Tools
 
@@ -62,13 +62,13 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ Currently Working On
 
-![Currently working on Python and Java, AI, UI/UX design and creative projects](./assets/working-on.svg?v=1)
+![Currently working on Python and Java, AI, UI/UX design and creative projects](working-on.svg?v=1)
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ Featured Projects
 
@@ -84,7 +84,7 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 <div align="center">
 
-![divider](./assets/divider.svg?v=1)
+![divider](divider.svg?v=1)
 
 ## ✦ GitHub Statistics
 
@@ -101,6 +101,6 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 <img src="https://komarev.com/ghpvc/?username=pranab2403&label=PROFILE+VIEWS&color=247bff&style=for-the-badge&labelColor=070b16" alt="Profile views counter" />
 
-![Code. Learn. Build. Repeat.](./assets/footer.svg?v=1)
+![Code. Learn. Build. Repeat.](footer.svg?v=1)
 
 </div>
