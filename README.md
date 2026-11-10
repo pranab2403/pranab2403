@@ -105,26 +105,6 @@
 
 ---
 
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranab2403&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</p>
-
----
-
-<!-- ===================== VISITOR COUNTER ===================== -->
-
-<h2 align="center">👀 Profile Visitors</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranab2403&label=PROFILE+VIEWS&color=247BFF&style=for-the-badge" />
-</p>
-
----
-
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
