@@ -72,19 +72,9 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 ## ✦ Featured Projects
 
-</div>
-
-| Project | What it is | Tech |
-|---|---|---|
-| [**Legal-rag-app**](https://github.com/pranab2403/Legal-rag-app) | Legal Tech Advisor application based on the Indian Constitution | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**A-Small-Birthday-Gift**](https://github.com/pranab2403/A-Small-Birthday-Gift) | [🌐 Live Website](https://specialforyousohana.vercel.app/) – A personal birthday gift website created for my best friend Sohana | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | 
-| [**Face-Attendence-Sytem**](https://github.com/pranab2403/Face-Attendence-Sytem) | Personal-training project for a face-based attendance system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Event-Management-System**](https://github.com/pranab2403/Event-Management-System) | A fun event management tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Certificate-generator**](https://github.com/pranab2403/Certificate-generator) | Certificate generator tool made for practice | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-
-<div align="center">
-
-![divider](divider.svg?v=1)
+<p align="center">
+  <img src="featured-projects.svg" width="100%" alt="Featured projects in a navy, blue, violet, and pink theme" />
+</p>
 
 ## ✦ GitHub Statistics
 
