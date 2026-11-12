@@ -20,7 +20,17 @@ Hi, I’m **Pranab** 👋 — a 2nd-year **BSc. IT (Artificial Intelligence)** s
 
 ![About Pranab – education, community and interests](profile-banner.svg?v=1)
 
-📫 **pranabnaskar2403@gmail.com**
+![divider](divider.svg?v=1)
+
+<p align="center">
+  <img src="contact-card.svg" width="100%" alt="Unique animated contact card with GitHub, LinkedIn, and Gmail logos and profile IDs" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pranab2403"><img src="https://img.shields.io/badge/GITHUB-pranab2403-0B1020?style=for-the-badge&amp;labelColor=374151&amp;logo=github&amp;logoColor=93C5FD" alt="GitHub: pranab2403" /></a>
+  <a href="https://www.linkedin.com/in/pranab-naskar-226a84370/"><img src="https://img.shields.io/badge/LINKEDIN-pranab naskar-0B1020?style=for-the-badge&amp;labelColor=374151&amp;logo=linkedin&amp;logoColor=93C5FD" alt="LinkedIn: pranab-naskar-226a84370" /></a>
+  <a href="mailto:pranabnaskar2403@gmail.com"><img src="https://img.shields.io/badge/GMAIL-pranabnaskar2403%40gmail.com-0B1020?style=for-the-badge&amp;labelColor=374151&amp;logo=gmail&amp;logoColor=FF4F9A" alt="Gmail: pranabnaskar2403@gmail.com" /></a>
+</p>
 
 ![divider](divider.svg?v=1)
 
